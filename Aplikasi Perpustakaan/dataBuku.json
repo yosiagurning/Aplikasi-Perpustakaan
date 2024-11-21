@@ -1,0 +1,95 @@
+{
+  "buku": [
+    {
+      "idBuku": 1,
+      "judulBuku": "Buku1",
+      "jumlahHalaman": 100,
+      "penulis": "Penulis1",
+      "penerbit": "Penerbit1",
+      "tahunTerbit": 2006,
+      "status": "hilang"
+    },
+    {
+      "idBuku": 2,
+      "judulBuku": "Kedua",
+      "jumlahHalaman": 100,
+      "penulis": "Penulis2",
+      "penerbit": "Penerbit2",
+      "tahunTerbit": 2005,
+      "status": "hilang"
+    },
+    {
+      "idBuku": 3,
+      "judulBuku": "Buku3",
+      "jumlahHalaman": 315,
+      "penulis": "Penulis3",
+      "penerbit": "Penerbit2",
+      "tahunTerbit": 2019,
+      "status": "disimpan"
+    },
+    {
+      "idBuku": 4,
+      "judulBuku": "Buku4",
+      "jumlahHalaman": 198,
+      "penulis": "Penulis3",
+      "penerbit": "Penerbit2",
+      "tahunTerbit": 2020,
+      "status": "disimpan"
+    },
+    {
+      "idBuku": 5,
+      "judulBuku": "Buku5",
+      "jumlahHalaman": 203,
+      "penulis": "Penulis3",
+      "penerbit": "Penerbit2",
+      "tahunTerbit": 2021,
+      "status": "dipinjam"
+    },
+    {
+      "idBuku": 6,
+      "judulBuku": "Buku6",
+      "jumlahHalaman": 200,
+      "penulis": "Penulis3",
+      "penerbit": "Penerbit6",
+      "tahunTerbit": 2002,
+      "status": "disimpan"
+    }
+  ],
+  "peminjaman": [
+    {
+      "nama_peminjam": "Saya",
+      "id_buku": 5,
+      "tanggal_pinjam": "2022-04-14T00:00:00",
+      "status_peminjaman": "dikembalikan"
+    },
+    {
+      "nama_peminjam": "Rama",
+      "id_buku": 4,
+      "tanggal_pinjam": "2022-04-19T20:51:16.0561554+07:00",
+      "status_peminjaman": "dikembalikan"
+    },
+    {
+      "nama_peminjam": "Doni",
+      "id_buku": 4,
+      "tanggal_pinjam": "2022-04-19T21:09:50.8235344+07:00",
+      "status_peminjaman": "dikonfirmasi"
+    },
+    {
+      "nama_peminjam": "Zahrandi",
+      "id_buku": 4,
+      "tanggal_pinjam": "2022-04-19T21:25:28.2464307+07:00",
+      "status_peminjaman": "dikonfirmasi"
+    },
+    {
+      "nama_peminjam": "Tes",
+      "id_buku": 6,
+      "tanggal_pinjam": "2022-06-13T04:51:18.2779875+07:00",
+      "status_peminjaman": "dikonfirmasi"
+    }
+  ],
+<<<<<<< HEAD:dataBuku.json
+  "path": "D:\\TUBES KPL\\Aplikasi-Perpustakaan\\dataBuku.json"
+=======
+  "path": "E:\\SEMESTER 4\\Konstruksi Perangkat Lunak\\Tugas Besar\\Aplikasi Perpustakaan\\dataBuku.json"
+>>>>>>> master:Aplikasi Perpustakaan/dataBuku.json
+}

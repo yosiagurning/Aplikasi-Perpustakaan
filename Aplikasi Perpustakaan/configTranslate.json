@@ -1,0 +1,52 @@
+{
+  "BahasaPagePeminjaman": {
+    "LabelIdBuku": {
+      "Id": "ID Buku",
+      "En": "Book ID"
+    },
+    "LabelNamaPeminjam": {
+      "Id": "Nama Peminjam",
+      "En": "Borrower's name"
+    }
+  },
+  "BahasaPageBook": {
+    "LabelJudulBuku": {
+      "Id": "Judul Buku",
+      "En": "Book's Title"
+    },
+    "LabelPenulis": {
+      "Id": "Penulis",
+      "En": "Writer"
+    },
+    "LabelPenerbit": {
+      "Id": "Penerbit",
+      "En": "Publisher"
+    },
+    "LabelTahunPenerbit": {
+      "Id": "Tahun Terbit",
+      "En": "Publication Year"
+    },
+    "LabelJumlahHalaman": {
+      "Id": "Jumlah Halaman",
+      "En": "Number of Pages"
+    },
+    "ButtonHapus": {
+      "Id": "Hapus",
+      "En": "Delete"
+    },
+    "ButtonKembali": {
+      "Id": "Kembali",
+      "En": "Back"
+    }
+  },
+  "LinkAPI": {
+    "LinkBukuGet": "https://w5bzmo.deta.dev/buku/get",
+    "LinkBukuPost": "https://w5bzmo.deta.dev/buku/post",
+    "LinkBukuPatch": "https://w5bzmo.deta.dev/buku/patch",
+    "LinkBukuDelete": "https://w5bzmo.deta.dev/buku/delete",
+    "LinkPeminjamanGet": "https://w5bzmo.deta.dev/peminjaman/get",
+    "LinkPeminjamanPost": "https://w5bzmo.deta.dev/peminjaman/post",
+    "LinkPeminjamanPatch": "https://w5bzmo.deta.dev/peminjaman/patch",
+    "LinkPeminjamanDelete": "https://w5bzmo.deta.dev/peminjaman/delete"
+  }
+}
